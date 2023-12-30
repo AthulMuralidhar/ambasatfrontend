@@ -11,21 +11,12 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import com.example.ambasat_frontend.ui.theme.AmbasatfrontendTheme
-
-
-
-
-
-
-
-
 // TODO: check this one out
 // https://developer.android.com/codelabs/exoplayer-intro#1
-// the above is a tutorial with exalty what i need - a media player
-
-
-
-
+// the above is a tutorial with exactly what i need - a media player
+//
+// GITHUB code is here:
+// https://github.com/android/codelab-exoplayer-intro
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
